@@ -19,9 +19,9 @@ let handler = m => m;
      responses = [ 
 '*وش تبي من عمتك🗿*'
      ]; 
- }else if (/^شحالك|كيفك$/i.test(m.text)) { 
+ }else if (/^كيفك$/i.test(m.text)) { 
      responses = [ 
-'*بخير دامك بخير*'
+'*بخيرالحمدلله وانت*'
      ]; 
    }else if (/^ناااااا$/i.test(m.text)) { 
      responses = [ 
